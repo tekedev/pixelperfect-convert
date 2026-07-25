@@ -1,0 +1,66 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+# Safety & Privacy Rules (NO PERSONAL DATA / NO SECRETS)
+*.pdf
+*.doc
+*.docx
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.env
+*.env.*
+*.pem
+*.key
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.log
+*.vcf
+
+# Sensitive Directories
+data/
+uploads/
+downloads/
+vcards/
+profiles/
+logs/
+private/
+secrets/
+.env/
+
+# Build & Dependencies
+node_modules/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+.dart_tool/
+.idea/
+.vscode/

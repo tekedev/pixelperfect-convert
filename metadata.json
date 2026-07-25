@@ -1,0 +1,5 @@
+{
+  "name": "PixelPerfect Convert",
+  "description": "A high-precision image-to-HTML converter for social media posts, powered by Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
